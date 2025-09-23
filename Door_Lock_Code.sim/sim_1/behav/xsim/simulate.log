@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+[0 ns] Simulación iniciada. Aplicando Reset.
+[50000 ns] Reset liberado. El sistema está en IDLE.
+[50000 ns] Clave secreta establecida en 1-2-3-0 (0x6c)
+--- INICIANDO PRUEBA DE CLAVE CORRECTA ---
+[50000 ns] Presionando botón 1 por 20 ms

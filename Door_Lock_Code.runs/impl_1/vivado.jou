@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Tue Sep 23 17:07:06 2025
+# Process ID         : 31108
+# Current directory  : C:/Users/under/OneDrive/Escritorio/FESC/2026-1/Diseo de Sistemas Digitales/Door_Lock_Code/Door_Lock_Code.runs/impl_1
+# Command line       : vivado.exe -log Door_Lock_Code.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Door_Lock_Code.tcl -notrace
+# Log file           : C:/Users/under/OneDrive/Escritorio/FESC/2026-1/Diseo de Sistemas Digitales/Door_Lock_Code/Door_Lock_Code.runs/impl_1/Door_Lock_Code.vdi
+# Journal file       : C:/Users/under/OneDrive/Escritorio/FESC/2026-1/Diseo de Sistemas Digitales/Door_Lock_Code/Door_Lock_Code.runs/impl_1\vivado.jou
+# Running On         : maumau
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26100
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i5-12450H
+# CPU Frequency      : 2496 MHz
+# CPU Physical cores : 8
+# CPU Logical cores  : 12
+# Host memory        : 16869 MB
+# Swap memory        : 7516 MB
+# Total Virtual      : 24385 MB
+# Available Virtual  : 8089 MB
+#-----------------------------------------------------------
+source Door_Lock_Code.tcl -notrace
