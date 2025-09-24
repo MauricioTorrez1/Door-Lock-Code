@@ -1,4 +1,4 @@
-#Cerradura Digital Secuencial con Anti-Rebote en SystemVerilog
+# Cerradura Digital Secuencial en SystemVerilog
 
 Este proyecto implementa una cerradura digital segura en una FPGA Basys 3. El diseño, codificado en SystemVerilog, requiere que un usuario introduzca una secuencia de 4 dígitos a través de botones. Para mayor seguridad, el sistema no revela si un dígito es incorrecto hasta que se ha introducido la secuencia completa.
 
